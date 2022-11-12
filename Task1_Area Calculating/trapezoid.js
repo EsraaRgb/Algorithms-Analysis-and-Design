@@ -1,4 +1,4 @@
-// calculating parallelogram Area
+// calculating Trapezoid Area
 
 // Algorithm A = 0.5 (Base1 * Base2) * Height
 
